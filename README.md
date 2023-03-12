@@ -1,4 +1,4 @@
-## Algorithm Repository
+### Algorithm Repository
 
 ***
 This repository is for Algorithm Practice.
