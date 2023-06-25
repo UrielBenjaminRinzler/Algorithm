@@ -1,8 +1,8 @@
 pub mod codewars;
 
-pub use codewars::{codewars1};
+pub use codewars::{codewars2};
 
 fn main() {
-    let result = codewars1::tests::solution(10i32);
+    let result = codewars2::tests::even_or_odd(12i32);
     println!("result is {}", result);
 }
