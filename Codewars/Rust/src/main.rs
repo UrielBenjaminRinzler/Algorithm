@@ -1,9 +1,9 @@
 pub mod codewars;
 
-pub use codewars::{codewars5};
+pub use codewars::{codewars6};
 
 fn main() {
-    let result = codewars5::tests::count_duplicates("Indivisibilities");
+    let result = codewars6::tests::get_count("abracadabra");
     println!("result is {}", result);
 
 
